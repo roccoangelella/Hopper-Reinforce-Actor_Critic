@@ -2,6 +2,8 @@
 
 REINFORCE and Actor-Critic implementations for the Hopper-v5 MuJoCo environment using PyTorch.
 
+![Hopper Actor-Critic Demo](assets/run_hopper_actor_critic.gif)
+
 ## Setup
 
 ```bash
